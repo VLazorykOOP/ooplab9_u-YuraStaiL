@@ -140,6 +140,14 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="OOPLab9T.cpp" />
+    <ClCompile Include="task1Students.cpp" />
+    <ClCompile Include="task2List.cpp" />
+    <ClCompile Include="task3.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="task1.h" />
+    <ClInclude Include="task2List.h" />
+    <ClInclude Include="task3.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
